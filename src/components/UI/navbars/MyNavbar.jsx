@@ -18,7 +18,6 @@ const MyNavbar = () => {
             </MyButton>
             <div className="navbar__links">
                 <Link to="/posts">Posts</Link>
-                <Link to="/about">About</Link>
             </div>
         </div>
     );
