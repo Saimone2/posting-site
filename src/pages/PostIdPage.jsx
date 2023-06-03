@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Home = () => {
+const PostIdPage = () => {
     return (
         <div>
-            Home
+            PostIdPage
         </div>
     );
 };
 
-export default Home;
+export default PostIdPage;
